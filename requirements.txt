@@ -1,0 +1,5 @@
+gradio==5.23.1
+groq==0.20.0
+numpy==2.2.4
+pydub==0.25.1
+python-dotenv==1.0.1
