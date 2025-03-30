@@ -161,7 +161,7 @@ with gr.Blocks(title="Groq Whisper WLTS Demo") as demo:
     - Educational tools for language learning
     - Media analysis and research
     
-    Created for the Groq WLTS Challenge. [View source code on GitHub](https://github.com/kiruthika0111/groq-whisper-wlts)
+    Created for the Groq WLTS Challenge. [View source code on GitHub](https://github.com/kiruthika0111/groq-whisper-wlts-demo)
     """)
 
     # Adding the image in the bottom right

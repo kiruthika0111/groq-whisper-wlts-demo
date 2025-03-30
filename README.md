@@ -15,7 +15,7 @@ A Gradio-based demo showcasing Word-Level Time Stamping (WLTS) using Groq's impl
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/kiruthika0111/groq-whisper-wlts.git
+   git clone https://github.com/kiruthika0111/groq-whisper-wlts-demo.git
    cd groq-whisper-wlts-demo
    ```
 
